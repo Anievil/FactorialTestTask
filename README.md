@@ -2,8 +2,8 @@
 
 ## Completed By
 
-{{YOUR NAME}}
+Oleksii Bazylevskyi
 
 ## Video Demo
 
-![](LINK_TO_VIDEO)
+![Video Demo in git repositoriy](https://github.com/Anievil/FactorialTestTask/blob/main/assets/TestTaskVideo.mp4)
